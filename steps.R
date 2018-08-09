@@ -201,6 +201,7 @@ ssh2("
 # (step 4)
 # https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html
 # https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started.html
+# https://github.com/cloudyr/aws.lambda
 
 ## clean up
 ##---------------------------------------------------------
